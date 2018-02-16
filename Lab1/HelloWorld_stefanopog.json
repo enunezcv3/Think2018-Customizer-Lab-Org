@@ -1,0 +1,21 @@
+{
+  "extensions": [
+    {
+      "payload": {
+        "match": {
+          "user-email": [stefanopog@think2018-Customizer.com]
+        },
+        "include-files": ["Lab1/HellowWorld_stefanopog.js],
+        "include-repo": { "name": "Think2018-Customizer-Lab-Org"}
+      },
+      "name": "HelloWorld Ext Lab1 stefanopog",
+      "type": "com.ibm.customizer.ui",
+      "path":"homepage",
+      "application": "HelloWorld App Lab1 stefanopog"
+    }
+  ],
+  "name": "HelloWorld App Lab1 stefanopog",
+  "description": "Hello World Homepage Customization from stefanopog",
+  "services": ["Customizer"],
+  "title": "stefanpog Hello World"
+}
