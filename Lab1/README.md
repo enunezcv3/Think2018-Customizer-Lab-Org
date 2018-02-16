@@ -1,1 +1,2 @@
-# This is Exercise 1
+# Hello World exercise
+
