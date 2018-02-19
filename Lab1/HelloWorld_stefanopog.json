@@ -3,7 +3,7 @@
     {
       "payload": {
         "match": {
-          "user-email": [stefanopog@think2018-Customizer.com]
+          "user-email": ["stefanopog@think2018-Customizer.com"]
         },
         "include-files": ["Lab1/HellowWorld_stefanopog.js],
         "include-repo": { "name": "Think2018-Customizer-Lab-Org"}
