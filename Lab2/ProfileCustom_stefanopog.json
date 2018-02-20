@@ -11,7 +11,7 @@
             },
             "name": "Profile Ext Lab2 stefanopog",
             "type": "com.ibm.customizer.ui",
-            "path": "homepage",
+            "path": "profiles",
             "application": "Profile App Lab2 stefanopog"
       }],
       "name": "Profile App Lab2 stefanopog",
